@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=AndreDrang&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=AndreDrang&theme=dark)](https://git.io/streak-stats)
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=16991365" target="_blank" style="display: block" align="center">
   <picture>
